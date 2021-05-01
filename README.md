@@ -22,7 +22,7 @@ I am Purnnendu, people call me purna, currently working as a freelace full-stack
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-<div align="center">
+<div align="">
 <img width="400" height="300" src="https://raw.githubusercontent.com/purnnendu/purnnendu/master/assets/Google%20IT%20Automationwith%20Python.png"/>
 </div>
 <!--
