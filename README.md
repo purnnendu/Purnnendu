@@ -25,12 +25,9 @@ I am Purnnendu, people call me purna, currently working as a freelace full-stack
 <div align="">
 <img width="400" height="300" src="https://raw.githubusercontent.com/purnnendu/purnnendu/master/assets/Cert.png"/>
 </div>
+
 <!--
 **purnnendu/purnnendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=purnnendu)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -41,3 +38,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=purnnendu)
+
+##### BIO
+
+- 🏢 I'm currently working as a **Freelace Full Stack Developer**
+- - 🌱 I’m currently learning 
+- ⚙️ I use daily: `.py`, `.go`, ,`.java`, `js`, `.html`, `.css`.
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Tech**, **development**, **design thinking**, **Anime or Manga**
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter, One Piece..
