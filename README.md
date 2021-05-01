@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Purnnendu, people call me purna, currently working as a freelace full-stack eveloper and looking for permanent job opportunity. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Purnnendu, people call me purna, currently working as a freelace full-stack developer and looking for permanent job opportunity. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Purnnendu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purnnendu/)](https://www.linkedin.com/in/purnnendu/)
 [![Gmail Badge](https://img.shields.io/badge/-purnnendu.1695@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:purnnendu.1695@gmail.com)](mailto:purnnendu.1695@gmail.com)
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 ##### BIO
 
 - 🏢 I'm currently working as a **Freelace Full Stack Developer**
-- 🌱 I’m currently learning Python & GoLang as part of Coursea Spcializations and making mini project's.
-- ⚙️ I use daily: `.py`, `.go`, ,`.java`, `js`, `.html`, `.css`.
+- 🌱 I’m currently learning Python & GoLang as part of Coursea Specializations and making mini project's.
+- ⚙️ I use daily: `.py`, `.go`,`.java`, `js`, `.html`, `.css`.
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Tech**, **development**, **design thinking**, **Anime or Manga**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter, One Piece..
