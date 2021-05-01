@@ -21,6 +21,10 @@ I am Purnnendu, people call me purna, currently working as a freelace full-stack
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+
+<div align="center">
+<img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/Google%20IT%20Automationwith%20Python.png"/>
+</div>
 <!--
 **purnnendu/purnnendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
