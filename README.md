@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Purnnendu, people call me purna, currently working as a freelace full-stack eveloper and looking for permanent job opportunity. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purnnendu/)](https://www.linkedin.com/in/purnnendu/)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:purnnendu.1695@gmail.com)](mailto:purnnendu.1695@gmail.com)
+
 <!--
 **purnnendu/purnnendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
