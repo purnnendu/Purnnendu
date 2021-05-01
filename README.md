@@ -23,7 +23,7 @@ I am Purnnendu, people call me purna, currently working as a freelace full-stack
 
 
 <div align="center">
-<img max-width="800" src="https://raw.githubusercontent.com/purnnendu/purnnendu/master/assets/Google%20IT%20Automationwith%20Python.png"/>
+<img max-width="400" src="https://raw.githubusercontent.com/purnnendu/purnnendu/master/assets/Google%20IT%20Automationwith%20Python.png"/>
 </div>
 <!--
 **purnnendu/purnnendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
