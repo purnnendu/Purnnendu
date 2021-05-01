@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ##### BIO
 
 - 🏢 I'm currently working as a **Freelace Full Stack Developer**
-- - 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python & GoLang as part of Coursea Spcializations and making mini project's.
 - ⚙️ I use daily: `.py`, `.go`, ,`.java`, `js`, `.html`, `.css`.
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Tech**, **development**, **design thinking**, **Anime or Manga**
