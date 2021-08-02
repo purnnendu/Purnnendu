@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Tech**, **development**, **design thinking**, **Anime or Manga**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter, One Piece..
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="purnnendu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/purnnendu?trk=profile-badge">Purnnendu N P</a></div>
+              
